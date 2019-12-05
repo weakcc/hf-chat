@@ -201,6 +201,4 @@ class BaseController
         $data = json_decode($this->frame->data, true);
         return $data['params'] ?? '';
     }
-
-
 }
