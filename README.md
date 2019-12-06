@@ -1,1 +1,3 @@
-master 保持和官方同步, dev 分支进行 `composer i` 后进行代码测试
+基于 hyperf 实现的简单聊天室 demo
+
+前端借鉴（抄袭） `easyswoole` 官方 demo，后端基于 hyperf 实现
